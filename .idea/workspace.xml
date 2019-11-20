@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fff841f-2003-41a8-8ecb-cb4cbd94d363" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TsD9lZZYRBYDQekuY2izqZsV1v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -36,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Navibuttons">
+  <component name="RunManager" selected="Application.Smartbininlog">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Smartbin" />
@@ -94,9 +100,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Smartbininlog" />
         <item itemvalue="Application.Navibuttons" />
         <item itemvalue="Application.SNotification" />
-        <item itemvalue="Application.Smartbininlog" />
       </list>
     </recent_temporary>
   </component>
@@ -118,24 +124,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/company/Smartbininlog.java</url>
-          <line>12</line>
-          <properties class="com.company.Smartbininlog" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

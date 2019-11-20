@@ -9,7 +9,7 @@ public class Navibuttons {
     private JButton averagebutton;
     private JButton notificationbutton;
     private JButton settingbutton;
-    private JPanel naviPanel;
+    public JPanel naviPanel;
     JFrame frame = new JFrame("JOptionPane showMessageDialog example");
 
     public static void main(String[] args) {

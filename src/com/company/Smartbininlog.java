@@ -1,8 +1,11 @@
 package com.company;
 
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import com.company.smartbinHeader.header;
+import com.company.navigation.Navibuttons;
 
 public class Smartbininlog {
     private JButton Loginbutton;
@@ -12,7 +15,14 @@ public class Smartbininlog {
 
     public static void main(String[] args) {
         JFrame frame = new JFrame("log in screen");
-        frame.setContentPane(new Smartbininlog().Loginview);
+        JPanel mainPanel = new JPanel();
+        mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.PAGE_AXIS));
+
+        mainPanel.add(new header().headerPanel, Component.TOP_ALIGNMENT);
+        mainPanel.add(new Smartbininlog().Loginview, Component.CENTER_ALIGNMENT);
+        mainPanel.add(new Navibuttons().naviPanel, Component.BOTTOM_ALIGNMENT);
+        frame.setContentPane(mainPanel);
+
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.pack();
         frame.setVisible(true);
@@ -33,7 +43,6 @@ public class Smartbininlog {
                 else{
                     JOptionPane.showMessageDialog(frame,"byeeeeeeeeee");
                 }
-
             }
         });
     }
