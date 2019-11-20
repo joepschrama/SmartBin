@@ -20,7 +20,7 @@ public class SNotification {
     }
     public SNotification()
     {
-        boxtext1.setText("Im fed! thank you!!!! :D  -Livingroom Smartbin");
+        boxtext1.setText("Im fed! thank you!!!! :D -Livingroom Smartbin");
         boxtext2.setText("The Bathroom Smartbin battery is at 15% pls charge :'(");
         boxtext3.setText("You throw 37% more waste this week, please think of the environment D: ");
         boxtime1.setText("today at 13:37");
