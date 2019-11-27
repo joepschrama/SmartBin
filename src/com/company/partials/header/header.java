@@ -1,4 +1,4 @@
-package com.company.smartbinHeader;
+package com.company.partials.header;
 
 import javax.swing.*;
 

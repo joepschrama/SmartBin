@@ -1,4 +1,4 @@
-package com.company.navigation;
+package com.company.partials.navigation;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

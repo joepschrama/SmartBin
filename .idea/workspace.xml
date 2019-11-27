@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fff841f-2003-41a8-8ecb-cb4cbd94d363" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/smartbinHeader/header.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/header/header.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/smartbinHeader/header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/header/header.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +30,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Haagse Hogeschool\SmartBin\src\com\company\partials\" />
+      <recent name="C:\Haagse Hogeschool\SmartBin\src\com\company\partials\header" />
+      <recent name="C:\Haagse Hogeschool\SmartBin\src\com\company\partials\navigation" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

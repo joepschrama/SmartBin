@@ -1,7 +1,7 @@
 package com.company.partials.layout;
 
-import com.company.navigation.Navibuttons;
-import com.company.smartbinHeader.header;
+import com.company.partials.navigation.Navibuttons;
+import com.company.partials.header.header;
 
 import javax.swing.*;
 import java.awt.*;
