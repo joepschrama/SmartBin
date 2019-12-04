@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fff841f-2003-41a8-8ecb-cb4cbd94d363" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/navigation/Navibuttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Notification/SNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Notification/SNotification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/layout/screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/layout/screen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/smartbinHeader/header.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/header/header.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/smartbinHeader/header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/header/header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +60,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Smartbininlog">
-    <configuration name="Navibuttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.navigation.Navibuttons" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.navigation.*" />
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Navibuttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.partials.navigation.Navibuttons" />
+      <module name="Smartbin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.partials.navigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smartbininlog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Smartbininlog" />
+    <configuration name="deviceOverview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.device.deviceOverview" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.device.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,24 +114,11 @@
       </method>
     </configuration>
     <configuration name="header" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.smartbinHeader.header" />
+      <option name="MAIN_CLASS_NAME" value="com.company.partials.header.header" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.smartbinHeader.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="screen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.partials.layout.screen" />
-      <module name="Smartbin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.partials.layout.*" />
+          <option name="PATTERN" value="com.company.partials.header.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,19 +127,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Smartbininlog" />
       <item itemvalue="Application.SNotification" />
-      <item itemvalue="Application.Navibuttons" />
+      <item itemvalue="Application.deviceOverview" />
       <item itemvalue="Application.header" />
-      <item itemvalue="Application.screen" />
+      <item itemvalue="Application.Navibuttons" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Smartbininlog" />
-        <item itemvalue="Application.screen" />
-        <item itemvalue="Application.header" />
-        <item itemvalue="Application.Navibuttons" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.SNotification" />
+        <item itemvalue="Application.Navibuttons" />
+        <item itemvalue="Application.header" />
+        <item itemvalue="Application.deviceOverview" />
       </list>
     </recent_temporary>
   </component>

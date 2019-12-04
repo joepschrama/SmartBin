@@ -14,7 +14,7 @@ public class Smartbininlog {
 
     public static void main(String[] args)
     {
-        new screen(new Smartbininlog().Loginview, "Login screen");
+        new screen(new Smartbininlog().Loginview, "Login screen", true);
     }
 
     public Smartbininlog()

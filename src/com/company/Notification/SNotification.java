@@ -1,9 +1,11 @@
 package com.company.Notification;
 
+import com.company.partials.layout.screen;
+
 import javax.swing.*;
 
 public class SNotification {
-    private JPanel Notifpanel;
+    public JPanel Notifpanel;
     private JLabel boxtext1;
     private JLabel boxtext2;
     private JLabel boxtext3;
@@ -12,12 +14,9 @@ public class SNotification {
     private JLabel boxtime3;
 
     public static void main(String[] args) {
-        JFrame frame = new JFrame("log in screen");
-        frame.setContentPane(new SNotification().Notifpanel);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setVisible(true);
+        new screen(new SNotification().Notifpanel, "Notification screen", true);
     }
+
     public SNotification()
     {
         boxtext1.setText("Im fed! thank you!!!! :D -Livingroom Smartbin");
