@@ -3,20 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0fff841f-2003-41a8-8ecb-cb4cbd94d363" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Smartbin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Smartbin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Notification/SNotification.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Notification/SNotification.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Smartbininlog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/layout/screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/layout/screen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/partials/navigation/Navibuttons.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Notification/SNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Smartbininlog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/layout/screen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/partials/navigation/Navibuttons.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +28,14 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Navibuttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.partials.navigation.Navibuttons" />
+    <configuration name="deviceConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.database.connections.deviceConnection" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.partials.navigation.*" />
+          <option name="PATTERN" value="com.company.database.connections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SNotification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Notification.SNotification" />
+    <configuration name="deviceGroupConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.database.connections.deviceGroupConnection" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.Notification.*" />
+          <option name="PATTERN" value="com.company.database.connections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deviceOverview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.device.deviceOverview" />
+    <configuration name="locationConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.database.connections.locationConnection" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.device.*" />
+          <option name="PATTERN" value="com.company.database.connections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="header" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.partials.header.header" />
+    <configuration name="notificationConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.database.connections.notificationConnection" />
       <module name="Smartbin" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.partials.header.*" />
+          <option name="PATTERN" value="com.company.database.connections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +123,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SNotification" />
-      <item itemvalue="Application.deviceOverview" />
-      <item itemvalue="Application.header" />
-      <item itemvalue="Application.Navibuttons" />
+      <item itemvalue="Application.notificationConnection" />
+      <item itemvalue="Application.deviceGroupConnection" />
+      <item itemvalue="Application.deviceConnection" />
+      <item itemvalue="Application.locationConnection" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.SNotification" />
-        <item itemvalue="Application.Navibuttons" />
-        <item itemvalue="Application.header" />
-        <item itemvalue="Application.deviceOverview" />
+        <item itemvalue="Application.deviceConnection" />
+        <item itemvalue="Application.locationConnection" />
+        <item itemvalue="Application.deviceGroupConnection" />
+        <item itemvalue="Application.notificationConnection" />
       </list>
     </recent_temporary>
   </component>
