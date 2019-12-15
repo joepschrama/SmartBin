@@ -3,9 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="0fff841f-2003-41a8-8ecb-cb4cbd94d363" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Smartbin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Smartbin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/deviceConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/deviceConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/deviceGroupConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/deviceGroupConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/garbageConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/garbageConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/languageConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/languageConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/locationConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/locationConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/notificationConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/notificationConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/settingConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/settingConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/userConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/connections/userConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Smartbin/com/company/database/models/User.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/database/connections/userConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/database/connections/userConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/database/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/database/models/User.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -15,6 +15,8 @@ public class User
         this.name = name;
     }
 
+    public String getCode() { return this.usercode; }
+
     public String getName() {
         return this.name;
     }
