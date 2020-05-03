@@ -1,5 +1,5 @@
 # SmartBin
-Ons challenge project: De SmartBin
+Ons challenge project: De SmartBin deluxo
 
 ### Functionaliteiten SmartBin
 - Arduino / Micro-bit verbinden met internet of bluetooth connectie
